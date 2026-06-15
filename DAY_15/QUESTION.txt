@@ -1,0 +1,4 @@
+Write a program to Reverse array.
+Write a program to Rotate array left.
+Write a program to Rotate array right.
+Write a program to Move zeroes to end.
