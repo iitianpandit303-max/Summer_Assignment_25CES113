@@ -1,0 +1,4 @@
+Write a program to Find missing number in array.
+Write a program to Find maximum frequency element.
+Write a program to Find pair with given sum.
+Write a program to Remove duplicates from array.
