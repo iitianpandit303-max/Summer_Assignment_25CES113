@@ -1,0 +1,4 @@
+Write a program to Merge arrays.
+Write a program to Union of arrays.
+Write a program to Intersection of arrays.
+Write a program to Find common elements.
