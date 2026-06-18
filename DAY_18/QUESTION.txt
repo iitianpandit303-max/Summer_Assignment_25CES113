@@ -1,0 +1,4 @@
+Write a program to Bubble sort.
+Write a program to Selection sort.
+Write a program to Binary search.
+Write a program to Sort array in descending order.
