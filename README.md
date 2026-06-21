@@ -3,7 +3,7 @@
 ## Student Details
 - Name: Mohit Kumar
 - Branch: Computer Science and Engineering (CSE)
-- University Roll No.: 2505110100179
+- University Roll No. : 2505110100179
 - College: GL Bajaj Institute of Technology and Management
 
 ## About
