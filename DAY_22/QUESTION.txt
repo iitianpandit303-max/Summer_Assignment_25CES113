@@ -1,0 +1,5 @@
+
+Write a program to Check palindrome string.
+Write a program to Count words in a sentence.
+Write a program to Character frequency.
+Write a program to Remove spaces from string.
