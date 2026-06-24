@@ -1,0 +1,4 @@
+Write a program to Check string rotation.
+Write a program to Compress a string.
+Write a program to Find longest word.
+Write a program to Remove duplicate characters.
