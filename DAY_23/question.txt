@@ -1,0 +1,4 @@
+Write a program to Find first non-repeating character.
+Write a program to Find first repeating character.
+Write a program to Check anagram strings.
+Write a program to Find maximum occurring character.
