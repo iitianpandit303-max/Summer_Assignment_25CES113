@@ -1,0 +1,4 @@
+Write a program to Merge two sorted arrays.
+Write a program to Find common characters in strings.
+Write a program to Sort names alphabetically.
+Write a program to Sort words by length.
