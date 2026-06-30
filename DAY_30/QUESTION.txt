@@ -1,0 +1,4 @@
+Write a program to Create student record system using arrays and strings.
+Write a program to Create mini library system.
+Write a program to Create mini employee management system.
+Write a program to Develop complete mini project using arrays, strings and functions.

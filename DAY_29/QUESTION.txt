@@ -1,0 +1,4 @@
+Write a program to Create menu-driven calculator.
+Write a program to Create menu-driven array operations system.
+Write a program to Create menu-driven string operations system.
+Write a program to Create inventory management system.

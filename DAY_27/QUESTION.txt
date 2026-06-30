@@ -1,0 +1,4 @@
+Write a program to Create student record management system.
+Write a program to Create employee management system.
+Write a program to Create salary management system.
+Write a program to Create marksheet generation system.
