@@ -1,0 +1,4 @@
+Write a program to Find sum of digits of a number.
+Write a program to Reverse a number.
+Write a program to Find product of digits.
+Write a program to Check whether a number is palindrome.

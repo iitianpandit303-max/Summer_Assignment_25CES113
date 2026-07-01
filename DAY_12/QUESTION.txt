@@ -1,0 +1,4 @@
+Write a program to Write function for palindrome.
+Write a program to Write function for Armstrong.
+Write a program to Write function for Fibonacci.
+Write a program to Write function for perfect number.

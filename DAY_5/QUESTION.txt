@@ -1,0 +1,4 @@
+Write a program to Check perfect number.
+Write a program to Check strong number.
+Write a program to Print factors of a number.
+Write a program to Find largest prime factor.

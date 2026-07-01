@@ -1,0 +1,4 @@
+Write a program to Input and display array.
+Write a program to Find sum and average of array.
+Write a program to Find largest and smallest element.
+Write a program to Count even and odd elements.

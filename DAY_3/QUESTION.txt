@@ -1,0 +1,4 @@
+Write a program to Check whether a number is prime.
+Write a program to Print prime numbers in a range.
+Write a program to Find GCD of two numbers.
+Write a program to Find LCM of two numbers.

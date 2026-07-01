@@ -1,0 +1,4 @@
+Write a program to Convert decimal to binary.
+Write a program to Convert binary to decimal.
+Write a program to Count set bits in a number.
+Write a program to Find x^n without pow().

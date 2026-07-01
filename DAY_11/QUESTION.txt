@@ -1,0 +1,4 @@
+Write a program to Write function to find sum of two numbers.
+Write a program to Write function to find maximum.
+Write a program to Write function to check prime.
+Write a program to Write function to find factorial.

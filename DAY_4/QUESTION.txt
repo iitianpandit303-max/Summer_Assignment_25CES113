@@ -1,0 +1,4 @@
+Write a program to Generate Fibonacci series.
+Write a program to Find nth Fibonacci term.
+Write a program to Check Armstrong number.
+Write a program to Print Armstrong numbers in a range.

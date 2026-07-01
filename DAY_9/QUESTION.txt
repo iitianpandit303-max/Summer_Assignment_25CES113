@@ -1,0 +1,25 @@
+Write a program to Print reverse star pattern.
+*****
+****
+***
+**
+*
+Write a program to Print reverse number triangle.
+
+12345
+1234
+123
+12
+1
+Write a program to Print repeated character pattern.
+A
+BB
+CCC
+DDDD
+EEEEE
+Write a program to Print hollow square pattern.
+*****
+*      *
+*      *
+*      *
+*****
